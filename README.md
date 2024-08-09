@@ -6,7 +6,7 @@
 
 Изучаю дашборды :abacus: :chart_with_upwards_trend: и бизнес-аналитику :briefcase: :heavy_dollar_sign:. 
 
-А еще работаю в школе :teacher:, преподаю математику :1234: :triangular_ruler: и информатику :computer:.
+А еще я преподаю математику :1234: :triangular_ruler: и информатику :computer:.
 
 ### Инструменты и технологии:
 <img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python" title="Python" height="28" />&nbsp;
